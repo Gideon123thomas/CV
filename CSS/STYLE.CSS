@@ -1,0 +1,37 @@
+
+title{
+    color:rgb(38, 211, 22);
+    font: size 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+
+h1 {
+   
+    color: rgba(48, 2, 8, 0.911);
+   font-size: 30px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+}
+
+h3{
+    color:darkorange ;
+    font-size: 25px;
+    font-style:inherit;
+    font-weight: 200;
+}
+
+p{
+    color: red;
+    text-align: center;
+    font-size: 20px;
+    
+}
+h4{
+    color: rgb(201, 17, 118);
+    font-size: 15px;
+    text-align: center;
+    font-weight: 40;
+    font-family: 'Times New Roman', Times, serif;
+
+} 
